@@ -1,12 +1,15 @@
 
+Remove those **three backticks at the beginning and end**. Your actual `README.md` should contain the HTML/Markdown directly, like this:
+
+```html
 <p align="center">
-  <img src="recall_icon.png" alt="Recall 360 Logo" width="140">
+  <img src="recall_icon.png" alt="Recall Logo" width="140">
 </p>
 
 <h1 align="center">Recall</h1>
 
 <p align="center">
-  Practice interview questions on Data Science, Machine and Deep learning.
+  Practice interview questions in Data Science, Machine Learning, and Deep Learning.
 </p>
 
 <p align="center">
@@ -14,6 +17,11 @@
     <strong>See Live Website</strong>
   </a>
 </p>
+
+<p align="center">
+  <img src="interface.png" alt="Recall Interface" width="900">
+</p>
+
 
 > **Coming soon:** AI Engineering interview questions will be added in a future update.
 
