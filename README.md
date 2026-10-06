@@ -18,14 +18,13 @@
   <img src="interface.png" alt="Recall Interface" width="900">
 </p>
 
-
 > **Coming soon:** AI Engineering interview questions will be added in a future update.
 
 Also see [ML Projects](https://github.com/ziraddingulumjanly).
 
 A focused, browser-based interview practice tool for **Data Science, Machine Learning, and Deep Learning**.
 
-Practice Orb keeps the experience intentionally simple: choose a topic if you want, click the glowing orb, answer the question yourself, then click the question card to reveal the reference answer.
+Recall keeps the experience intentionally simple: choose a topic if you want, click the glowing orb, answer the question yourself, then click the question card to reveal the reference answer.
 
 The goal is not to turn interview preparation into another large learning platform. It is a lightweight practice loop built around **recall, repetition, and random questioning**.
 
@@ -41,7 +40,7 @@ The goal is not to turn interview preparation into another large learning platfo
 
 ## Question bank
 
-The current bank contains **147 interview questions** from the supplied DS / ML / DL Interview Guide:
+The current bank contains **147 interview questions** from the DS / ML / DL Interview Guide:
 
 | Topic | Questions |
 | --- | ---: |
@@ -67,7 +66,7 @@ Each selection maintains its own shuffled question cycle.
 
 ## Random no-repeat logic
 
-Practice Orb does **not** simply choose a random question independently on every click, because that could produce repeated questions too often.
+Recall does **not** simply choose a random question independently on every click, because that could produce repeated questions too often.
 
 Instead, each topic mode uses a shuffled deck:
 
@@ -89,7 +88,6 @@ No installation or build step is required.
 
 The project is a static front-end website and does not require a backend for its current functionality.
 
-
 ## Replacing or extending the question bank
 
 Questions and answers are stored in `script.js`.
@@ -100,7 +98,7 @@ The current UI and interaction logic do not need to change when the question ban
 
 ## Design philosophy
 
-Practice Orb is built around a very small interaction loop:
+Recall is built around a very small interaction loop:
 
 **Choose → Recall → Answer → Check → Repeat**
 
