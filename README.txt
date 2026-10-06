@@ -1,7 +1,3 @@
-
-Remove those **three backticks at the beginning and end**. Your actual `README.md` should contain the HTML/Markdown directly, like this:
-
-```html
 <p align="center">
   <img src="recall_icon.png" alt="Recall Logo" width="140">
 </p>
