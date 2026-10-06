@@ -2,8 +2,7 @@
   <img src="recall_icon.png" alt="Recall Logo" width="140">
 </p>
 
-<h1 align="center">Recall</h1>
-
+<!-- <h1 align="center">Recall</h1> -->
 <p align="center">
   Practice interview questions in Data Science, Machine Learning, and Deep Learning.
 </p>
@@ -20,7 +19,7 @@
 
 > **Coming soon:** AI Engineering interview questions will be added in a future update.
 
-Also see [ML Projects](https://github.com/ziraddingulumjanly).
+Also see [ML Projects](https://github.com/ziraddingulumjanly/Recall).
 
 A focused, browser-based interview practice tool for **Data Science, Machine Learning, and Deep Learning**.
 
