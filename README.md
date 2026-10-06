@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="interface.png" alt="Recall Interface" width="900">
+  <img src="window.png" alt="Recall Interface" width="900">
 </p>
 
 > **Coming soon:** AI Engineering interview questions will be added in a future update.
