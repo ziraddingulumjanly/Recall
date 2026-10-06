@@ -19,7 +19,7 @@
 
 > **Coming soon:** AI Engineering interview questions will be added in a future update.
 
-Also see [ML Projects](https://github.com/ziraddingulumjanly/Recall).
+Also see [ML Projects](https://github.com/ziraddingulumjanly).
 
 A focused, browser-based interview practice tool for **Data Science, Machine Learning, and Deep Learning**.
 
@@ -75,17 +75,7 @@ Instead, each topic mode uses a shuffled deck:
 4. When the full cycle is complete, the deck is shuffled again and a new cycle begins.
 5. The last question from the previous cycle is prevented from immediately becoming the first question of the next cycle when possible.
 
-Progress is stored locally in the browser, so refreshing the page does not intentionally restart the active deck.
-
-## Run locally
-
-No installation or build step is required.
-
-1. Download or clone the project.
-2. Open `index.html` in a modern browser.
-3. Click the orb and start practicing.
-
-The project is a static front-end website and does not require a backend for its current functionality.
+Progress is stored locally in the browser, so refreshing the page does not intentionally restart the active deck. The project is a static front-end website and does not require a backend for its current functionality.
 
 ## Replacing or extending the question bank
 
